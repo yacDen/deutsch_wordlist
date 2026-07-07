@@ -1,4 +1,5 @@
-{
+[
+  {
   "id": 1,
   "word": "abfahren",
   "type": "verb",
@@ -25,4 +26,68 @@
 
   "image": "",
   "audio": ""
-}
+},
+  
+{
+  "id": 2,
+  "word": "abgeben",
+  "type": "verb",
+  "level": "A1",
+
+  "regular": false,
+  "separable": true,
+  "auxiliary": "haben",
+  
+  "conjuguaison": {
+    "present": "gibt ab",
+    "past": "gab ab",
+    "perfect": "hat abgegeben",
+  },
+
+  "translations": "remettre, rendre, déposer",
+
+  "examples": [
+    {
+      "de": "Ich muss meine Schlüssel abgeben.",
+      "fr": "Je dois rendre mes clés."
+    }
+  ],
+
+  "image": "",
+  "audio": ""
+},
+
+{
+  "id": 3,
+  "word": "abholen",
+  "type": "verb",
+  "level": "A1",
+
+  "regular": true,
+  "separable": true,
+  "auxiliary": "haben",
+  
+  "conjuguaison":{
+    "present": "holt ab",
+    "past": "holte ab",
+    "perfect": "hat abgeholt"
+  }
+
+  "translations":  "aller chercher, récupérer",
+
+  "examples": [
+    {
+      "de": "Wann kann ich den Schrank bei dir abholen?",
+      "fr": "Quand puis-je venir chercher l'armoire chez toi ?"
+    },
+    {
+      "de": "Wir müssen noch meinen Bruder abholen.",
+      "fr": "Nous devons encore aller chercher mon frère."
+    }
+  ],
+
+  "image": "",
+  "audio": ""
+}  
+  
+]
