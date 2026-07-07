@@ -1,1 +1,17 @@
 
+[
+  {
+    "id": 1,
+    "article": "die",
+    "word": "Abfahrt ",
+    "plural": "Abfahrten",
+    "level": "A1",
+    "translation_fr": "le départ",
+    "examples": [
+      {
+        "de": "Vor der Abfahrt rufe ich an.",
+        "fr": " J'appellerai avant le départ."
+      }
+    ]
+  }
+]
