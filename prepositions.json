@@ -5,16 +5,12 @@
   "case": "dative",
   "level": "A2",
 
-  "translations": {
-    "fr": "à partir de, dès"
-  },
+  "translations": "à partir de",
 
   "examples": [
     {
       "de": "Ab morgen muss ich arbeiten.",
-      "fr": "À partir de demain, je dois travailler.",
-      "en": "Starting tomorrow, I have to work.",
-      "ar": "ابتداءً من الغد يجب أن أعمل."
+      "fr": "À partir de demain, je dois travailler."
     }
   ],
 
