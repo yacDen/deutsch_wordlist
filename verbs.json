@@ -1,1 +1,28 @@
+{
+  "id": 1,
+  "word": "abfahren",
+  "type": "verb",
+  "level": "A1",
 
+  "regular": false,
+  "separable": true,
+  "auxiliary": "sein",
+  
+  "conjuguaison": {
+    "present": "fährt ab",
+    "past": "fuhr ab",
+    "perfect": "ist abgefahren"
+  },
+
+  "translations": "partir",
+
+  "examples": [
+    {
+      "de": "Wir fahren um zwölf Uhr ab.",
+      "fr": "Nous partons à douze heures."
+    }
+  ],
+
+  "image": "",
+  "audio": ""
+}
