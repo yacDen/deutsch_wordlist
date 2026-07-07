@@ -1,1 +1,16 @@
+{
+  "id": 1,
+  "word": "aber",
+  "type": "conjunction",
+  "level": "A1",
+  "translations": "mais",
+  "examples": [
+    {
+      "de": "Ich bin oft im Büro, aber nur für wenige Stunden.",
+      "fr": "Je suis souvent au bureau, mais seulement pendant quelques heures."
+    }
+  ],
 
+  "image": "",
+  "audio": ""
+}
