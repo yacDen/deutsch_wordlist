@@ -1,19 +1,23 @@
 
 [
   {
-    "id": 1,
-    "article": "die",
-    "word": "Abfahrt ",
-    "plural": "Abfahrten",
-    "level": "A1",
-    "translation_fr": "le départ",
+    "id": 1, "article": "die", "word": "Abfahrt ", "plural": "Abfahrten", "level": "A1", "translation_fr": "le départ",
     "examples": [
       {
         "de": "Vor der Abfahrt rufe ich an.",
         "fr": " J'appellerai avant le départ."
       }
     ],
-    "image": "",
-    "audio": ""
+    "image": "", "audio": ""
+  },
+  {
+    "id": 2, "article": "die", "word": "Dusche", "plural": "die Duschen", "level": "A1", "translation_fr": "la douche",
+    "examples": [
+      {
+        "de": " Ich nehme eine kalte Dusche.",
+        "fr": " Je prends une douche froide."
+      }
+    ],
+    "image": "", "audio": ""
   }
 ]
